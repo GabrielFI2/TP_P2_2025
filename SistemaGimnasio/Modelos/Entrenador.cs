@@ -19,7 +19,9 @@ namespace SistemaGimnasio.Modelos
         public Entrenador(string nombre, string especialidad )
         {
             Nombre = nombre;
+
             Especialidad = especialidad;
+            usuarioAsignados = new List<Usuario>();
         }
 
         //Metodos
