@@ -24,3 +24,4 @@ namespace SistemaGimnasio.Modelos
         }
     }
 }
+//¿que pasa si no ponemos bien los caracteries

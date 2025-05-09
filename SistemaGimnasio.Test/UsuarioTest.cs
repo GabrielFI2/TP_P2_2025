@@ -19,3 +19,9 @@ namespace SistemaGimnasio.Test
         }
     }
 }
+//5 pruebas
+//Lo muestra Facts
+//agregar nuevo proyecto, pruebas x unit
+
+
+//explorador de pruebas
