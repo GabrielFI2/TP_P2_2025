@@ -6,7 +6,7 @@ namespace SistemaGimnasio.Test
     {
         [Fact]
         public void AsignarRutina_DebeAsignarCorrectamente()
-        {
+        {y
             //Arrange
             var usuario = new Usuario("Carlos", 25, "Fuerza");
             var rutina = new Rutina("Rutina de fuerza", 60);
@@ -19,3 +19,9 @@ namespace SistemaGimnasio.Test
         }
     }
 }
+//5 pruebas
+//Lo muestra Facts
+//agregar nuevo proyecto, pruebas x unit
+
+
+//explorador de pruebas
