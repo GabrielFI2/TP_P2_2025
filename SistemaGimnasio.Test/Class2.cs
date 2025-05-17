@@ -6,7 +6,7 @@
 public class Class1
 {
 	public Class1()
-	{
+	{fcfdffd
 		//
 		// TODO: Add constructor logic here
 		//
